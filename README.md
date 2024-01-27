@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nurul Syasyawafa
 ========================================================================================================================================
 
-Student of Computer Science (Bioinformatics)
+Student of Bachelor Computer Science (Bioinformatics)
 --------------------------------------------
 
-I'm from Computer Science (Bioinformatics) course who loves to sing.
+I'm from Bachelor Computer Science (Bioinformatics) and I'm first year for this session.
 
 *   🌍  I'm based in Pasir Gudang, Johor
 *   🖥️  See my portfolio at [MyPortfolio](http://myportfolio.com)
 *   ✉️  You can contact me at [nurulsyasyawafa@graduate.utm.my](mailto:nurulsyasyawafa@graduate.utm.my)
-*   🧠  I'm learning Programming
+*   🧠  I'm learning Programming Technique
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  I'm shy person### Skills 
+*   ⚡  If you need help you can just ask me ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                     </p>
