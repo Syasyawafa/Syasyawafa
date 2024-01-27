@@ -7,7 +7,7 @@ Student of Bachelor Computer Science (Bioinformatics)
 I'm from Bachelor Computer Science (Bioinformatics) and I'm first year for this session.
 
 *   🌍  I'm based in Pasir Gudang, Johor
-*   🖥️  See my portfolio at [MyPortfolio](http://myportfolio.com)
+*   🖥️  See my portfolio at [MyPortfolio](github.com/Syasyawafa)
 *   ✉️  You can contact me at [nurulsyasyawafa@graduate.utm.my](mailto:nurulsyasyawafa@graduate.utm.my)
 *   🧠  I'm learning Programming Technique
 *   🤝  I'm open to collaborating on Projects
